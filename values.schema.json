@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kelps.io/samarkand-helm-chart.schema.json",
+  "title": "Samarkand Helm Chart",
+  "description": "A low-latency virtual market server.",
+  "type": "object",
+  "properties": {},
+  "default": {}
+}

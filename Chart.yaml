@@ -1,0 +1,22 @@
+---
+apiVersion: v2
+name: samarkand
+description: A low-latency virtual market server. 
+type: application
+version: 0.1.0
+appVersion: v0.1.0
+kubeVersion: '>=1.36.0'
+keywords:
+  - samarkand
+  - finance
+  - market
+  - coding-kelps
+# home: 
+sources:
+  - https://github.com/coding-kelps/samarkand-helm-chart
+  - https://github.com/coding-kelps/samarkand
+maintainers:
+  - name: guilhem-sante
+    email: guilhem.sante@kelps.org
+# icon:
+annotations: {}
